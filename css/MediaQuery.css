@@ -1,0 +1,43 @@
+@media screen and (max-width:750px) {
+    .imgcontainr{
+        .imgcontainr {
+            background-size: contain; /* Ensures the image fits within the container */
+            background-position: center; /* Centers the background image */
+            height: auto; /* Allows the container to adjust its height automatically */
+            background-attachment: scroll; /* Prevents issues with fixed positioning on mobile */
+        }
+    }
+        h1{
+            font-size: 2.9rem;
+        }
+        .Changer1::after {
+           
+            font-size: 2rem;
+            
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .blogchild{
+            margin-bottom: 30px;
+        }
+}
